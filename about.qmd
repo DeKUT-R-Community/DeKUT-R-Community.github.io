@@ -1,9 +1,32 @@
 ---
 title: "About"
+about:
+  template: trestles
+  image-width: 10em
+  image-shape: round
+  image: withbg.png
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://x.com/RDekut
+    - icon: github
+      text: Github
+      href: https://github.com/DeKUT-R-Community
 ---
 
-About this site
+Welcome to the R users meetup group at Dedan Kimathi University of Technology! This group is perfect for anyone interested in sharing knowledge about doing data science and machine learning with R.
+Join us every thuRsday for our weekly meetup and where we learn, grow, and thrive together in our R community!
 
-```{r}
-1 + 1
-```
+## Achievements
+1. Winner Zindi Financial Inclusion Hackathon 2021
+2. Winner Data Science and Artificial Intelligence Club (DSAIC) Hack 2023
+3. R User Groups Grant | from R Consortium
+Year 2023
+4. R User Groups Grant |from R Consortium
+Year 2024
+
+## Events 
+
+https://www.meetup.com/dekutrcommunity/
+
+

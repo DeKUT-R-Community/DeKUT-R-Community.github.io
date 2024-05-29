@@ -17,12 +17,17 @@ website:
         href: https://github.com/DeKUT-R-Community
       - icon: linkedin
         href: 
+  page-footer: "Copyright 2024, RDekut"
+
         
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
+    
+    
+
 
 
 
