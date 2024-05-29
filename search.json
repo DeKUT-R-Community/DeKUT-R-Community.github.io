@@ -11,7 +11,21 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Welcome to the R users meetup group at Dedan Kimathi University of Technology! This group is perfect for anyone interested in sharing knowledge about doing data science and machine learning with R. Join us every thuRsday for our weekly meetup and where we learn, grow, and thrive together in our R community!"
+  },
+  {
+    "objectID": "about.html#achievements",
+    "href": "about.html#achievements",
+    "title": "About",
+    "section": "Achievements",
+    "text": "Achievements\n\nWinner Zindi Financial Inclusion Hackathon 2021\nWinner Data Science and Artificial Intelligence Club (DSAIC) Hack 2023\nR User Groups Grant | from R Consortium Year 2023\nR User Groups Grant |from R Consortium Year 2024"
+  },
+  {
+    "objectID": "about.html#events",
+    "href": "about.html#events",
+    "title": "About",
+    "section": "Events",
+    "text": "Events\nhttps://www.meetup.com/dekutrcommunity/"
   },
   {
     "objectID": "blog.html",
