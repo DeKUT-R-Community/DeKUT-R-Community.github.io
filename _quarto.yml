@@ -2,13 +2,22 @@ project:
   type: website
 
 website:
-  title: "DeKUT-R-Community.github.io"
+  title: "DeKUT R Community"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
-
+      - href: blog.qmd
+        text: Blog
+    tools:
+      - icon: twitter
+        href: https://x.com/RDekut
+      - icon: github
+        href: https://github.com/DeKUT-R-Community
+      - icon: linkedin
+        href: 
+        
 format:
   html:
     theme: cosmo

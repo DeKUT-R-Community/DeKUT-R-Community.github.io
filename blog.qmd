@@ -1,0 +1,27 @@
+---
+title: "Blog"
+---
+
+Data science, Machine Learning and Everything R
+
+
+```{r}
+1 + 1
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

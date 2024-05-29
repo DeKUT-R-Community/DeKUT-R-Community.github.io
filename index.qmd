@@ -1,5 +1,5 @@
 ---
-title: "DeKUT-R-Community.github.io"
+title: "DeKUT R Community"
 ---
 
 This is a Quarto website.
