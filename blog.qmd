@@ -2,14 +2,7 @@
 title: "Blog"
 ---
 
-Data science, Machine Learning and Everything R
-
-
-```{r}
-1 + 1
-```
-
-
+Leading the Dekut R Community in Kenya and Innovating with R 
 
 
 
