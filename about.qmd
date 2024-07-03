@@ -14,8 +14,8 @@ about:
       href: https://github.com/DeKUT-R-Community
 ---
 
-Welcome to the R users meetup group at Dedan Kimathi University of Technology! This group is perfect for anyone interested in sharing knowledge about doing data science and machine learning with R.
-Join us every thuRsday for our weekly meetup and where we learn, grow, and thrive together in our R community!
+Welcome to the R users meetup group at Dedan Kimathi University of Technology! We are an R User group based in Dedan Kimathi University Of Technology in Nyeri, Kenya.
+We share knowledge about doing data science and machine learning with R through our weekly meetups every thuRsday where we learn, grow, and network together on everything Rstats.
 
 ## Achievements
 1. Winner Zindi Financial Inclusion Hackathon 2021
